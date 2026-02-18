@@ -4,8 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Cody+Kandarian;Data+Science+%40+Baylor+University;Incoming+Software+Engineer+%40+SpaceX;Building+Systems+That+Matter)](https://git.io/typing-svg)
 
-**Data Science @ Baylor University '27** · Mathematics & Business Administration  
-Building data systems that power real-world decisions — from spectrum management to rocket reliability.
+**Data Science @ Baylor University '27** · Mathematics & Business Administration
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/cody-kandarian)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:cody_kandarian1@baylor.edu)
@@ -74,8 +73,6 @@ Built a PostgreSQL database and ETL pipeline for 1,530+ NFL player projections, 
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=codyk2&theme=tokyonight&hide_border=true&background=0d1117)
-
-![Cody's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codyk2&theme=tokyo-night&hide_border=true&bg_color=0d1117)
 
 </div>
 
