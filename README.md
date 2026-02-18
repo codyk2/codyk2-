@@ -1,6 +1,8 @@
 <div align="center">
 
-# Hey, I'm Cody Kandarian 👋
+![Profile Views](https://komarev.com/ghpvc/?username=codyk2&color=blue&style=flat-square&label=Profile+Views)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Cody+Kandarian+%F0%9F%91%8B;Data+Science+%40+Baylor+University;Incoming+Data+Engineer+%40+SpaceX;Building+Systems+That+Matter)](https://git.io/typing-svg)
 
 **Data Science @ Baylor University '27** · Mathematics & Business Administration  
 Building data systems that power real-world decisions — from spectrum management to rocket reliability.
@@ -53,7 +55,10 @@ Created Django-based spectrum sharing systems with real-time interference calcul
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codyk2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codyk2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=codyk2&theme=tokyonight&hide_border=true&background=0d1117)
 
 </div>
 
