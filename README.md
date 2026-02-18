@@ -23,18 +23,18 @@ Building data systems that power real-world decisions — from spectrum manageme
 ### Experience
 
 **Software Engineering Co-op · Keysight Technologies** · *May 2025 – Aug 2025*  
-Developed an open-source Particle Swarm Optimization framework for Keysight ADS, reducing RF circuit design time from weeks to automated processing. Built a 3D Smith tube visualization tool using PyQtGraph for real-time optimization trajectory analysis with 1,000+ data points per frequency. Architected a Python optimization engine processing 5D performance arrays across frequency and impedance sweeps with custom fitness functions. Integrated the framework with Keysight ADS through file I/O protocols and AEL scripting for automated simulation workflows.
+Built an open-source Particle Swarm Optimization framework for RF circuit design automation and a 3D Smith tube visualization tool for real-time optimization analysis.
 
 **Undergraduate Researcher · Baylor SMART Hub** · *June 2025 – Present*  
-Built a Dynamic Spectrum Access system for real-time interference protection of military radar while enabling commercial spectrum sharing in the 3.1–3.45 GHz band. Implemented spectrum management algorithms combining free space and ITU-R P.2108 clutter loss models with automated power reduction. Developed a Django-based SAS server handling CBRS messaging with real-time geographic interference mapping and spectrum waterfall displays. Designed a scalable system supporting multiple concurrent users across 350 MHz of spectrum with 1-second update intervals.
+Developed a Django-based Dynamic Spectrum Access system with real-time interference mapping, CBRS messaging, and spectrum waterfall displays for military radar protection.
 
 **ECS Ambassador · Baylor School of Engineering & Computer Science** · *Nov 2024 – Present*  
-Represent the School of Engineering and Computer Science at recruitment events, tours, and community outreach. Collaborate with admissions, faculty, and staff to plan and execute major recruiting events including Invitation to Excellence, Distinguished Scholars Day, and Baylor Bound.
+Represent the school at recruitment events and help plan major recruiting initiatives including Invitation to Excellence and Distinguished Scholars Day.
 
 ### Projects
 
 **Fantasy Football Statistical Analysis** · *Python, SQL, PostgreSQL, R, Pandas*  
-Designed a PostgreSQL database to store 1,530+ NFL player projections from CBS, ESPN, and Yahoo with a normalized schema. Built a Python ETL script to web-scrape projection data and load into PostgreSQL with data validation and error handling. Performed statistical analysis using R and SQL to identify high-value draft positions and player tiers based on fantasy point distributions.
+Built a PostgreSQL database and ETL pipeline for 1,530+ NFL player projections, then used R and SQL to identify high-value draft positions and player tiers.
 
 ### Tech Stack
 
@@ -73,11 +73,9 @@ Designed a PostgreSQL database to store 1,530+ NFL player projections from CBS, 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codyk2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codyk2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=codyk2&theme=tokyonight&hide_border=true&background=0d1117)
+
+![Cody's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codyk2&theme=tokyo-night&hide_border=true&bg_color=0d1117)
 
 </div>
 
