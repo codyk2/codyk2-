@@ -18,7 +18,6 @@
 - **Incoming Software Engineer @ SpaceX** — Test Reliability team (McGregor, TX) · Summer 2026
 - **Undergraduate Researcher @ Baylor SMART Hub** — Dynamic Spectrum Access systems for military radar protection in the 3.1–3.45 GHz band
 - **ECS Ambassador** — Baylor School of Engineering & Computer Science
--   Building : ...... coming soon!
 
 ### Experience
 
